@@ -3,7 +3,12 @@
 Jadon Miesle
 7/13/24
 Final Project
-
+This application functions as an online salad bar, allowing the user
+to create their own custom salads from a preselected group of
+ingredients, or choose from a selection of premade salads. They
+can also add a variety of drinks to their order. They will then
+proceed to the checkout where they wil be prompted to enter payment
+information.
 
 """
 
