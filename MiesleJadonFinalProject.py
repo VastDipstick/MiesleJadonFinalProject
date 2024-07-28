@@ -157,7 +157,7 @@ class AddPremadeSalad(EasyFrame):
         to the "Add a Greek salad" button."""
         # Add the cost of a Greek salad to the total cost of the order
         global totalPrice
-        totalPrice += 8.00
+        totalPrice += 7.00
         global greekSaladCount
         # Check to see if the greekSaladCount variable exists. If it does, increment by one, if not, initialize it to 1
         try:
